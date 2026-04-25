@@ -1,0 +1,6 @@
+Timestamp,Current (A),Voltage (V),Power (W),Status,Power Status,Event,System State
+2026-04-24 11:18:37,95,400,38000,Normal,Low Power,OK,STABLE
+2026-04-24 11:18:38,105,398,41790,Warning,Normal Power,ALERT,STABLE
+2026-04-24 11:18:39,130,405,52650,Critical,High Power,FAULT,STABLE
+2026-04-24 11:18:40,110,399,43890,Warning,Normal Power,ALERT,STABLE
+2026-04-24 11:18:41,125,401,50125,Critical,High Power,FAULT,SHUTDOWN
