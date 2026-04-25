@@ -1,11 +1,12 @@
+## Mini SCADA-Style Electrical Monitoring System
+A Python-based monitoring system simulating electrical behavior, fault detection, and SCADA-style visualization.
+
 ## Author
 
 **Willy Brice Happi**  
 Wind Turbine Technician | Electrical Engineering Student  
 
 GitHub: (https://github.com/Wkemajou0415/mini-scada-monitoring-system/edit/main/README.md)
-## Mini SCADA-Style Electrical Monitoring System
-A Python-based monitoring system simulating electrical behavior, fault detection, and SCADA-style visualization.
 
 ## Overview
 
