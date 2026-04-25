@@ -4,7 +4,8 @@
 Wind Turbine Technician | Electrical Engineering Student  
 
 GitHub: (https://github.com/Wkemajou0415/mini-scada-monitoring-system/edit/main/README.md)
-# Mini SCADA Monitoring System
+## Mini SCADA-Style Electrical Monitoring System
+A Python-based monitoring system simulating electrical behavior, fault detection, and SCADA-style visualization.
 
 ## Overview
 
@@ -53,3 +54,7 @@ It is directly applicable to wind turbine monitoring and electrical engineering 
 
 ```bash
 python scada_monitor.py
+
+## Project Status
+
+Completed – Demonstrates core concepts of monitoring systems and data visualization.
